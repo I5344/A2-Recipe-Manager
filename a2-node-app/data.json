@@ -1,0 +1,9 @@
+[
+  {
+    "userId": 1,
+    "username": "ahil",
+    "email": "abc@gmail.com",
+    "password": "abc",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjMwOTkzNDUsImV4cCI6MTcyMzEwMjk0NX0.uSQf7IpRQ6O94rBaZfLeO0uofqd9i2x49nU2-a63qYQ"
+  }
+]

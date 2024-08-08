@@ -1,0 +1,270 @@
+[
+  {
+    "itemId": 1,
+    "userId": 1,
+    "title": "Masala Dosa",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup urad dal",
+      "1/4 cup chana dal",
+      "1/4 cup toor dal",
+      "1/4 cup poha",
+      "1/2 tsp fenugreek seeds",
+      "3 potatoes",
+      "1 onion, chopped",
+      "2 green chilies, chopped",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Soak rice, urad dal, chana dal, toor dal, poha, and fenugreek seeds together for 4-6 hours.",
+      "Grind to a smooth batter and ferment overnight.",
+      "Boil potatoes, mash them, and keep aside.",
+      "Heat oil, add mustard seeds, and let them splutter.",
+      "Add onions, green chilies, and turmeric powder, and sauté until onions are translucent.",
+      "Add mashed potatoes and salt, mix well, and cook for 5 minutes.",
+      "Heat a dosa pan, pour a ladle of batter, and spread it in a circular motion.",
+      "Drizzle oil around the edges and cook until crisp.",
+      "Place the potato filling in the center and fold the dosa.",
+      "Serve hot with chutney and sambar."
+    ],
+    "date": "2023-06-20"
+  },
+  {
+    "itemId": 2,
+    "userId": 1,
+    "title": "Idli",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup urad dal",
+      "1/4 cup poha",
+      "Salt to taste",
+      "Water"
+    ],
+    "instructions": [
+      "Soak rice, urad dal, and poha for 4-6 hours.",
+      "Grind to a smooth batter and ferment overnight.",
+      "Add salt and mix well.",
+      "Grease idli molds and pour the batter into them.",
+      "Steam for 10-12 minutes or until idlis are cooked.",
+      "Serve hot with chutney and sambar."
+    ],
+    "date": "2023-06-21"
+  },
+  {
+    "itemId": 3,
+    "userId": 1,
+    "title": "Pongal",
+    "category": "Breakfast",
+    "ingredients": [
+      "1/2 cup rice",
+      "1/2 cup moong dal",
+      "1/4 tsp turmeric powder",
+      "Salt to taste",
+      "1 tsp black pepper",
+      "1 tsp cumin seeds",
+      "A pinch of asafoetida",
+      "2 tbsp ghee",
+      "Curry leaves",
+      "Cashews for garnish"
+    ],
+    "instructions": [
+      "Dry roast moong dal until aromatic.",
+      "In a pot, add rice, moong dal, turmeric powder, and salt with enough water to cook.",
+      "Pressure cook until soft and mushy.",
+      "In a separate pan, heat ghee, add cumin seeds, black pepper, asafoetida, and curry leaves.",
+      "Pour the tempering over the cooked rice and dal mixture.",
+      "Garnish with roasted cashews.",
+      "Serve hot with coconut chutney."
+    ],
+    "date": "2023-06-25"
+  },
+  {
+    "itemId": 4,
+    "userId": 1,
+    "title": "Payasam",
+    "category": "Dessert",
+    "ingredients": [
+      "1/2 cup vermicelli",
+      "1 liter milk",
+      "1/4 cup sugar",
+      "1/4 tsp cardamom powder",
+      "Cashews and raisins for garnish",
+      "2 tbsp ghee"
+    ],
+    "instructions": [
+      "Heat ghee in a pan, add vermicelli and roast until golden brown.",
+      "Add milk and bring it to a boil.",
+      "Simmer until the vermicelli is cooked.",
+      "Add sugar and cardamom powder, and cook for another 5 minutes.",
+      "In a separate pan, fry cashews and raisins in ghee until golden.",
+      "Garnish the payasam with fried cashews and raisins.",
+      "Serve warm or chilled."
+    ],
+    "date": "2023-06-27"
+  },
+  {
+    "itemId": 5,
+    "userId": 1,
+    "title": "Lasagna",
+    "category": "Dinner",
+    "ingredients": [
+      "12 lasagna noodles",
+      "500g ground beef",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "800g tomato sauce",
+      "250g ricotta cheese",
+      "200g mozzarella cheese, shredded",
+      "50g Parmesan cheese, grated",
+      "1 egg",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C (350°F).",
+      "Cook the lasagna noodles according to the package instructions.",
+      "In a pan, cook the ground beef until browned.",
+      "Add the onion and garlic, and cook until softened.",
+      "Stir in the tomato sauce and simmer for 15 minutes.",
+      "In a bowl, mix the ricotta cheese with the egg, salt, and pepper.",
+      "In a baking dish, layer the noodles, meat sauce, ricotta mixture, and mozzarella.",
+      "Repeat the layers, finishing with mozzarella and Parmesan.",
+      "Bake for 25-30 minutes until the cheese is golden and bubbly.",
+      "Let it cool slightly before serving."
+    ],
+    "date": "2023-07-01"
+  },
+  {
+    "itemId": 6,
+    "userId": 1,
+    "title": "Carbonara",
+    "category": "Dinner",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta, diced",
+      "2 eggs",
+      "50g Parmesan cheese, grated",
+      "2 garlic cloves, minced",
+      "Salt and pepper",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Cook the spaghetti according to the package instructions.",
+      "In a pan, cook the pancetta until crispy.",
+      "Add the garlic and sauté for a minute.",
+      "In a bowl, whisk the eggs with the grated Parmesan.",
+      "Drain the pasta and add it to the pan with the pancetta.",
+      "Remove from heat, then quickly stir in the egg mixture.",
+      "Season with salt and pepper.",
+      "Serve immediately."
+    ],
+    "date": "2023-07-05"
+  },
+  {
+    "itemId": 7,
+    "userId": 1,
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "200g ladyfingers",
+      "300ml strong coffee",
+      "3 eggs",
+      "100g sugar",
+      "250g mascarpone cheese",
+      "Cocoa powder"
+    ],
+    "instructions": [
+      "Prepare the coffee and let it cool.",
+      "Separate the eggs, beating the yolks with sugar until creamy.",
+      "Add the mascarpone to the yolk mixture and mix until smooth.",
+      "In another bowl, beat the egg whites until stiff peaks form.",
+      "Gently fold the egg whites into the mascarpone mixture.",
+      "Dip the ladyfingers into the coffee and arrange them in a dish.",
+      "Spread half of the mascarpone mixture over the ladyfingers.",
+      "Add another layer of dipped ladyfingers and top with the remaining mascarpone.",
+      "Chill in the refrigerator for at least 4 hours.",
+      "Dust with cocoa powder before serving."
+    ],
+    "date": "2023-07-10"
+  },
+  {
+    "itemId": 8,
+    "userId": 1,
+    "title": "Grilled Beef Steak",
+    "category": "Lunch",
+    "ingredients": [
+      "2 beef steaks (about 200g each)",
+      "1 tablespoon olive oil",
+      "2 garlic cloves, minced",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1 teaspoon fresh rosemary, chopped",
+      "1 teaspoon fresh thyme, chopped"
+    ],
+    "instructions": [
+      "Preheat your grill to high heat.",
+      "Brush the steaks with olive oil on both sides.",
+      "Rub the garlic, salt, pepper, rosemary, and thyme into the steaks.",
+      "Place the steaks on the grill and cook for 3-4 minutes on each side for medium-rare, or longer to your desired doneness.",
+      "Remove the steaks from the grill and let them rest for 5 minutes before serving."
+    ],
+    "date": "2024-08-05"
+  },
+  {
+    "itemId": 9,
+    "userId": 1,
+    "title": "BBQ Ribs",
+    "category": "Lunch",
+    "ingredients": [
+      "1 rack of pork ribs",
+      "1/4 cup brown sugar",
+      "1 tablespoon paprika",
+      "1 tablespoon garlic powder",
+      "1 tablespoon onion powder",
+      "1 teaspoon salt",
+      "1 teaspoon black pepper",
+      "1/2 teaspoon cayenne pepper",
+      "1 cup BBQ sauce"
+    ],
+    "instructions": [
+      "Preheat your oven to 300°F (150°C).",
+      "Mix together the brown sugar, paprika, garlic powder, onion powder, salt, black pepper, and cayenne pepper to create a dry rub.",
+      "Rub the mixture all over the ribs, covering both sides.",
+      "Wrap the ribs in aluminum foil and place them on a baking sheet.",
+      "Bake in the preheated oven for 2.5 to 3 hours, or until the meat is tender.",
+      "Remove the ribs from the oven and discard the foil.",
+      "Brush the ribs with BBQ sauce.",
+      "Preheat your grill to medium-high heat.",
+      "Grill the ribs for about 5 minutes on each side, basting with more BBQ sauce as you go, until the sauce is caramelized.",
+      "Serve hot."
+    ],
+    "date": "2024-08-05"
+  },
+  {
+    "itemId": 10,
+    "userId": 1,
+    "title": "Apple Pie",
+    "category": "Dessert",
+    "ingredients": [
+      "2 pie crusts",
+      "6 cups sliced apples",
+      "3/4 cup sugar",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "2 tablespoons all-purpose flour",
+      "1 tablespoon lemon juice"
+    ],
+    "instructions": [
+      "Preheat the oven to 425°F (220°C).",
+      "In a large bowl, mix the apples, sugar, cinnamon, nutmeg, flour, and lemon juice.",
+      "Place one pie crust in a pie dish and fill with the apple mixture.",
+      "Cover with the second pie crust, crimp the edges, and cut slits for ventilation.",
+      "Bake for 45-50 minutes until the crust is golden brown.",
+      "Let cool before serving."
+    ],
+    "date": "2023-07-15"
+  }
+]
